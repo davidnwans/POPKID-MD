@@ -16,7 +16,7 @@ A peek at the look and feel of **POPKID-MD**.
 
 ## ⚡ POPKID MD: The Ultimate Statement
 
-Our signature Typing SVG now features custom text and the bold Montserrat font for maximum impact:
+*NEW WHATSAPP BOT*:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=4000&color=00FFFF&center=true&vCenter=true&lines=POPKID%20MD|BOT)
 
